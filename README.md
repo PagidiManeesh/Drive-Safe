@@ -807,7 +807,7 @@ class=SpellE>Tizen</span> IDE with JRE (Java Runtime Environment). <o:p></o:p></
 <p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoPlainText><span style='font-family:"Courier New"'>Watch the
-demonstration above to get an idea. <o:p></o:p></span></p>
+demonstration video in above folder. <o:p></o:p></span></p>
 
 <p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
 
